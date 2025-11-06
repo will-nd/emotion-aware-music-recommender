@@ -34,3 +34,11 @@ To design and evaluate a music recommendation system that predicts and leverages
 ---
 
 ## 📂 Project Structure
+emotion-aware-music-recommender/
+│
+├── data/ # Datasets (raw and processed)
+├── notebooks/ # Jupyter notebooks for analysis and modelling
+├── src/ # Source code modules
+├── reports/ # Visualisations and dissertation documents
+├── requirements.txt # Project dependencies
+└── README.md # Project overview
